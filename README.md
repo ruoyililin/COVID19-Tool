@@ -1,13 +1,13 @@
 # COVID19-Tool
-This repository contains a tool for presenting global Covid-19 cases and mortality statistics. The tool employs Beautiful Soup for web scraping, and uses pandas, numpy, and matplotlib for efficient data manipulation and visualization.
+This repository contains a tool for presenting global Covid-19 cases and mortality statistics. The tool employs Beautiful Soup for web scraping, and uses pandas, numpy, and matplotlib for efficient data manipulation and visualization. This is a final project for a Python course at the École Normal Superior (Paris). 
 
 ## Summary
 This project focuses on gathering, analyzing, and visualizing global Covid-19 data through web scraping, data manipulation, and graphical representation.
 
 ## Instructions
 1. Download the whole folder. 
-2. Run `coronavirus_graphs.py`
-3. Interact with the interface to produce the interested graphs. 
+2. Install the necessaries packages and run `coronavirus_graphs.py`.
+3. Interact with the interface to produce the desired graphs.
 
 ## Description of the code 
 ### Part I: Gather the Data 
